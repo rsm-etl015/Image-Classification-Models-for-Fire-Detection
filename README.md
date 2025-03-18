@@ -9,6 +9,24 @@ Due to computational limitations, I was unable to train models on my laptop. Ini
 This repository is structured to separate training, evaluation, and inference files, ensuring clarity and ease of use.
 
 ---
+## Dataset: **The Wildfire Dataset**
+
+This project uses the **Wildfire Dataset**, a diverse and evolving dataset designed to improve deep learning-based forest fire detection. The dataset consists of **2,700 aerial and ground-based images**, sourced from public domain platforms like government databases, Flickr, and Unsplash. It aims to represent various **environmental scenarios, forest types, geographical locations, and fire conditions**, making it a strong benchmark for machine learning research in wildfire detection.
+
+### **Dataset Details**
+- **Size**: **10.74 GB** (too large to be included in this repository)
+- **Source**: Kaggle ([Dataset Link](https://doi.org/10.3390/f14091697))
+- **Research Paper**:  
+  El-Madafri I, Peña M, Olmedo-Torre N. *The Wildfire Dataset: Enhancing Deep Learning-Based Forest Fire Detection with a Diverse Evolving Open-Source Dataset Focused on Data Representativeness and a Novel Multi-Task Learning Approach.* **Forests. 2023; 14(9):1697**  
+  [DOI: 10.3390/f14091697](https://doi.org/10.3390/f14091697)
+
+Since the dataset is large (**10.74 GB**), **it is not included in this repository**.  
+To use it, **please download it from Kaggle** and upload it to your Kaggle Notebook.
+
+### **Running the Code**
+I strongly recommend running this project on **Kaggle Notebooks** instead of a local machine. The `.ipynb` files require significant computational power, and without a strong GPU, training can be very slow.
+
+---
 
 ## Repository Structure
 
