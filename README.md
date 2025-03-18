@@ -6,7 +6,7 @@
 
 [![MP4 Video Fire Detection](https://img.youtube.com/vi/nBNSIiR3cn0/0.jpg)](https://www.youtube.com/watch?v=nBNSIiR3cn0)
 
-[![Live Video Fire Detection](https://img.youtube.com/vi/H-fTevU1njc/0.jpg)](https://www.youtube.com/watch?v=H-fTevU1njc)
+[![Live Fire Detection](https://img.youtube.com/vi/H-fTevU1njc/0.jpg)](https://www.youtube.com/watch?v=H-fTevU1njc)
 
 ---
 
