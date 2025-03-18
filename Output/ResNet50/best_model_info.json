@@ -1,0 +1,1 @@
+{"Combination": 3, "Learning Rate": 0.0001, "Batch Size": 16, "Dropout": 0.2, "Dense": 128, "Augmentation": false, "Base Model Trainable": false, "Bottleneck": true, "Batch Normalization": true, "Activation": "relu", "Train Accuracy": 0.793322741985321, "Val Accuracy": 0.7363184094429016, "Test Accuracy": 0.8048780560493469}

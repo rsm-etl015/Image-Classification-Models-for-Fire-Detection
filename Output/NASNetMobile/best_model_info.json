@@ -1,0 +1,1 @@
+{"Combination": 7, "Learning Rate": 0.0001, "Batch Size": 16, "Dropout": 0.2, "Dense": 512, "Augmentation": true, "Base Model Trainable": true, "Stem Block Filters": 96, "Activation": "swish", "Train Accuracy": 0.9417064189910889, "Val Accuracy": 0.8606964945793152, "Test Accuracy": 0.8780487775802612}

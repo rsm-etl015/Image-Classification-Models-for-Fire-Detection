@@ -1,0 +1,1 @@
+{"Combination": 1, "Learning Rate": 0.0001, "Batch Size": 32, "Dropout": 0.5, "Dense": 512, "Augmentation": false, "Base Model Trainable": true, "Growth Rate": 16, "Blocks": 4, "Activation": "swish", "Train Accuracy": 0.9697933197021484, "Val Accuracy": 0.8855721354484558, "Test Accuracy": 0.9170731902122498}
