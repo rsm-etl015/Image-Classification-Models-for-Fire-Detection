@@ -15,7 +15,7 @@ This project uses the **Wildfire Dataset**, a diverse and evolving dataset desig
 
 ### **Dataset Details**
 - **Size**: **10.74 GB** (too large to be included in this repository)
-- **Source**: Kaggle ([Dataset Link](https://doi.org/10.3390/f14091697))
+- **Source**: Kaggle ([Dataset Link](https://www.kaggle.com/datasets/elmadafri/the-wildfire-dataset))
 - **Research Paper**:  
   El-Madafri I, Peña M, Olmedo-Torre N. *The Wildfire Dataset: Enhancing Deep Learning-Based Forest Fire Detection with a Diverse Evolving Open-Source Dataset Focused on Data Representativeness and a Novel Multi-Task Learning Approach.* **Forests. 2023; 14(9):1697**  
   [DOI: 10.3390/f14091697](https://doi.org/10.3390/f14091697)
