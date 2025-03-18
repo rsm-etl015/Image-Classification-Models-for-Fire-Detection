@@ -1,4 +1,6 @@
 # Fire Detection Model Repository
+![Framework](Framework.png)
+
 ---
 ### Play Me
 
