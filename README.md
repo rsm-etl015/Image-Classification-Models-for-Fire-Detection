@@ -1,3 +1,5 @@
+[![MP4 Video Fire Detection](https://img.youtube.com/vi/nBNSIiR3cn0/0.jpg)](https://www.youtube.com/watch?v=nBNSIiR3cn0)
+
 ---
 
 # Fire Detection Model Repository
